@@ -361,6 +361,8 @@ a:focus {
 */
 
 .o-section {
+    display: flex;
+    flex-direction: column;
 }
 
 .o-section + .o-section {
