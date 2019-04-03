@@ -201,6 +201,11 @@ a:focus {
     flex-direction: column;
 }
 
+.o-row--neutral-x-light {
+    background-color: #F7F7F7;
+    margin: 0 208px;
+}
+
 /* size modifiers */
 
 .o-row--lg {
